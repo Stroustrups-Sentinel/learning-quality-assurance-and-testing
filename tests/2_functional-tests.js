@@ -73,7 +73,7 @@ suite('Functional Tests', function () {
 const Browser = require('zombie');
 
 Browser.localhost = 'http://localhost:3000'; //
-Browser.site = 'https://96390t4x-3000.inc1.devtunnels.ms/'; //'http://localhost:3000';
+Browser.site = '[insert-link-here|i-used-dev-tunnel]'; //'http://localhost:3000';
 
 suite('Functional Tests with Zombie.js', function () {
   this.timeout(5000);
