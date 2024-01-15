@@ -81,7 +81,7 @@ suite('Functional Tests with Zombie.js', function () {
   const browser = new Browser();
 
   suiteSetup(function(done) {
-    return browser.visit('http://192.168.101.206:3000/', done);
+    return browser.visit('http://[0.0.0.0]:3000/', done);
   });
 
 
