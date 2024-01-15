@@ -14,5 +14,5 @@ This is the boilerplate for the Quality Assurance with Chai lessons. Instruction
 ### 📍Lines to replace if you decide to run this code
 |Line number| Info |
 |--|--|
-|74|you can use [dev-tunnel](https://code.visualstudio.com/docs/editor/port-forwarding) port forwarding|
-|85| local address (ipv4)  🖥️`ipconfig` \| 🐧`ip address` |
+|74|site link, you can use [dev-tunnel](https://code.visualstudio.com/docs/editor/port-forwarding) port forwarding|
+|85| local address (ipv4),  🖥️ `ipconfig` &nbsp;&nbsp;\| 🐧 `ip address` |
